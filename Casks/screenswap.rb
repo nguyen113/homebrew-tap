@@ -7,7 +7,7 @@ cask "screenswap" do
   desc "Swap windows between two selected displays"
   homepage "https://github.com/nguyen113/ScreenSwap"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "ScreenSwap.app"
 
