@@ -1,6 +1,6 @@
 cask "screenswap" do
-  version "0.1.0-beta.1"
-  sha256 "147206282c9212b5ed14dcf2987dacef122f2de86e58126e97629508494c00b6"
+  version "0.1.0-beta.3"
+  sha256 "825a1559d36acc494f1b938de35f4d68b51a57a3f0152b496f231e99dddbd364"
 
   url "https://github.com/nguyen113/ScreenSwap/releases/download/v#{version}/ScreenSwap-#{version}.zip"
   name "ScreenSwap"
